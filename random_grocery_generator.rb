@@ -24,7 +24,8 @@ end
 
 def find_item_by_name_in_collection (name, collection)
   counter = 0
-  while counter <
+  while counter < collection.length
+    
 
 def generate_cart
 	[].tap do |cart|
