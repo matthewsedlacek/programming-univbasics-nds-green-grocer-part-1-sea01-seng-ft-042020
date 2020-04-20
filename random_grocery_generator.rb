@@ -23,7 +23,7 @@ def coupons
 end
 
 def find_item_by_name_in_collection (name, collection)
-  
+  while counter <
 
 def generate_cart
 	[].tap do |cart|
