@@ -22,7 +22,8 @@ def coupons
 	]
 end
 
-def find_item_by_name_in_collection ()
+def find_item_by_name_in_collection (name, collection)
+  
 
 def generate_cart
 	[].tap do |cart|
